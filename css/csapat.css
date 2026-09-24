@@ -1,0 +1,22 @@
+h1 a:visited {
+    text-decoration: none;
+    color: #b91c1c;
+}
+
+h1 a:hover {
+    text-decoration: none;
+    color: #1d4ed8;
+}
+
+h1 a {
+    text-decoration: none;
+    color: #b91c1c;
+}
+
+.team-card {
+    border-left-color: #1d4ed8;
+}
+
+.team-name {
+    color: #1d4ed8;
+}
